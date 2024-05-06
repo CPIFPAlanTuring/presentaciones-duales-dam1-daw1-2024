@@ -63,7 +63,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="30px" src="aliqindoi.png">
+<img height="34px" src="aliqindoi.png">
 
 * Hora de comienzo: 13:05h
 
@@ -74,14 +74,13 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 <hr>
 
 
-<img height="50px" src="hogarola.jpg">
+<img height="36px" src="pwc.png">
 
-[Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
-* Hora de comienzo: 10:05h
+* Hora de comienzo: 13:20h
 
 ##### 1º DAM
 
-* Herrera Sánchez, Jesús
+* [Gallego Ríos, Boris](enlace-al-repositorio-con-el-material)
 
 <hr>
 
@@ -143,7 +142,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ## PC
 
-[Carpeta PC](https://drive.google.com/drive/folders/1SEBBhfwRVoWEW7t-VF1mlidEv87a7cUr?usp=sharing)
 * Hora de comienzo: 9:10h
 
 ##### 1ºDAM
