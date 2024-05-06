@@ -18,15 +18,17 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="36px" src="accenture.svg">
 
-* Hora de comienzo: 8:30h
+* Hora de comienzo: 11:45h
+
 ##### 1ºDAW
 
+* [Colomer, Bárbara Palmira](enlace-al-repositorio-con-el-material)
 * [Lázaro Zambrano, Gonzálo](enlace-al-repositorio-con-el-material)
+* [Ramos Alarcón, Sergio](enlace-al-repositorio-con-el-material)
 
 ##### 1ºDAM
 
-* Capilla Pérez, Ana
-* Romero Martínez, Ginebra
+* [Leiva López, Eloy](enlace-al-repositorio-con-el-material)
 
 <hr>
 
