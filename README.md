@@ -12,7 +12,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 ## Cuadrante horario de las presentaciones con índices a los repositorios
 
-Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta proporcionada en el enlace de su correspondiente empresa.
+Cada alumno debe enlazar con el repositorio donde tiene su presentación (formato elegido y pdf), además de cualquier otra información que considere relevante.
 
 ### :calendar: Lunes 27 de mayo de 2024
 
