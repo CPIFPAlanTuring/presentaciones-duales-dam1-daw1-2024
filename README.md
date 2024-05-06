@@ -51,15 +51,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="30px" src="dedalus-logo-white.svg">
+<img height="30px" src="ada.jpg">
 
-[Carpeta Dedalus](https://drive.google.com/drive/folders/1M3YcADG9h8i7ssswwBoz6MeP5gqDUpTr?usp=sharing)
-* Hora de comienzo: 9:25h
+* Hora de comienzo: 12:50h
 
 ##### 1º DAW
 
-* López De la Torre, Julia
-* Díaz Marín, José Pablo
+* [Leiva García, Álvaro](enlace-al-repositorio-con-el-material)
+* [Barnestein Martos, Alejandro](enlace-al-repositorio-con-el-material)
+* [Avila Rosas, Miguel Ángel](enlace-al-repositorio-con-el-material)
 
 <hr>
 
