@@ -18,11 +18,10 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="36px" src="accenture.svg">
 
-[Carpeta Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
 * Hora de comienzo: 8:30h
 ##### 1ºDAM
 
-* García Guerrero, Antonio Luis
+* [Lázaro Zambrano, Gonzálo](enlace-al-repositorio-con-el-material)
 
 ##### 1ºDAW
 
