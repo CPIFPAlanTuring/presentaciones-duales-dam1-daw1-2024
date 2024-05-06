@@ -26,31 +26,28 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 * [Lázaro Zambrano, Gonzálo](enlace-al-repositorio-con-el-material)
 * [Ramos Alarcón, Sergio](enlace-al-repositorio-con-el-material)
 
+<hr>
+
 ##### 1ºDAM
 
 * [Leiva López, Eloy](enlace-al-repositorio-con-el-material)
 
 <hr>
 
-<img  height="30px" src="airzone.svg">
+<img height="28px" src="viewnext.png">
 
-[Carpeta Airzone](https://drive.google.com/drive/folders/1Zt9m-TFQLxiqY9hYcSS0pqeXdNqemFez?usp=sharing)
-* Hora de comienzo: 8:55h
-
-##### 1º DAW
-
-* Moreno Ayala, Alberto
-
-<hr>
-
-<img height="30px" src="cgi.jpg">
-
-[Carpeta CGI](https://drive.google.com/drive/folders/1ce0kc9lUb5vCx0I0pxN6eUG5VrAGUrJs?usp=sharing)
-* Hora de comienzo: 9:10h
+* Hora de comienzo: 12:15h
 
 ##### 1º DAW
 
-* Rolando Martínez, Sergio
+* [López Guerrero, Álvaro](enlace-al-repositorio-con-el-material)
+* [Chacón Macías, Juan Francisco](enlace-al-repositorio-con-el-material)
+* [Alarcón Fortes, Manuel](enlace-al-repositorio-con-el-material)
+
+##### 1º DAM
+* [Lázaro Zambrano, Ignacio](enlace-al-repositorio-con-el-material)
+* [Avella Pérez, Samuel](enlace-al-repositorio-con-el-material)
+
 
 <hr>
 
