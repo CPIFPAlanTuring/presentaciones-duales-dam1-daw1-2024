@@ -1,6 +1,6 @@
 # Presentaciones duales de 1º DAW y 1º DAM del curso 2023 / 2024
 
-Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Nuevo** (Málaga - PTA) del curso 2022 - 2023.
+Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Alan Turing** (Málaga - PTA) del curso 2023 - 2024.
 
 ## Índice
 
