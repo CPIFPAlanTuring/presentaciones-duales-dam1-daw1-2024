@@ -51,7 +51,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="30px" src="ada.jpg">
+<img height="32px" src="ada.jpg">
 
 * Hora de comienzo: 12:50h
 
