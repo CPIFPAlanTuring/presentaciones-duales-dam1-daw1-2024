@@ -208,9 +208,9 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 
 Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno.
 
-Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en la carpeta de la empresa asignada previamente.
+Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en el repositorio.
 
-Cualquier material utilizado en la presentación debe estar disponible desde esa misma carpeta: presentación original, presentación en formato pdf, enlaces a videos, etc.
+Cualquier material utilizado en la presentación debe estar disponible desde el mismo repositorio: presentación original, presentación en formato pdf, enlaces a videos, etc.
 
 ## :school: Lugar de la presentación
 
