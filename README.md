@@ -84,20 +84,11 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="50px" src="buhardilla.jpg">
-
-[Carpeta Buhardilla](https://drive.google.com/drive/folders/14ovcRff1hUEMxhPoULpnqUUk_oA3TYtX?usp=sharing)
-* Hora de comienzo: 10:20h
-
-##### 1º DAM
-
-* Belean, Denisa-Ramona
 
 <hr>
 
 <img height="26px" src="nttdata.png">
 
-[Carpeta NTT Data](https://drive.google.com/drive/folders/1uCEgNppEP6G-nR29Fod73YeFCK_EXXE4?usp=sharing)
 * Hora de comienzo: 10:35h
 
 ##### 1ºDAW
