@@ -14,16 +14,16 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación (formato elegido y pdf), además de cualquier otra información que considere relevante.
 
-### :calendar: Lunes 27 de mayo de 2024
+### :calendar: Lunes 27 de mayo de 2024 - Turno de mañana
 
 <img height="36px" src="accenture.svg">
 
 * Hora de comienzo: 8:30h
-##### 1ºDAM
+##### 1ºDAW
 
 * [Lázaro Zambrano, Gonzálo](enlace-al-repositorio-con-el-material)
 
-##### 1ºDAW
+##### 1ºDAM
 
 * Capilla Pérez, Ana
 * Romero Martínez, Ginebra
@@ -191,7 +191,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ## :stopwatch: Tiempo para la presentación
 
-Los alumnos de una misma empresa deberán de realizar una presentación común de la misma cuya duración será de 5 minutos como máximo. A continuación, cada alumno realizará una presentación individualizada de su trabajo de 5 minutos, dejando otros 5 minutos para un turno de preguntas común.
+Los alumnos de la misma empresa deberán de realizar una presentación común de la misma cuya duración será de 5 minutos como máximo. A continuación, cada alumno realizará una presentación individualizada de su trabajo de 5 minutos, dejando otros 5 minutos para un turno de preguntas común.
 
 ## :open_file_folder: Contenido de la presentación
 
