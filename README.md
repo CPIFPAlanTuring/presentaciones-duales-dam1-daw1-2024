@@ -14,7 +14,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta proporcionada en el enlace de su correspondiente empresa.
 
-### :calendar: Lunes 29 de mayo de 2023
+### :calendar: Lunes 27 de mayo de 2024
 
 <img height="36px" src="accenture.svg">
 
