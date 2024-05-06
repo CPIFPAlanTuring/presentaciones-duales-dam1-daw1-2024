@@ -63,15 +63,13 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="30px" src="dekra.svg">
+<img height="30px" src="aliqindoi.png">
 
-[Carpeta Dekra](https://drive.google.com/drive/folders/1mK6e1QySBa8xucviIQwbXWSF4b6EH_1h?usp=sharing)
-* Hora de comienzo: 9:45h
+* Hora de comienzo: 13:05h
 
-##### 1ºDAW
+##### 1ºDAM
 
-* Martos Ruiz, David
-* Navas Martín, Jaime
+* [Solera Romero, David](enlace-al-repositorio-con-el-material)
 
 <hr>
 
