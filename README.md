@@ -49,7 +49,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 * [Lázaro Zambrano, Ignacio](enlace-al-repositorio-con-el-material)
 * [Avella Pérez, Samuel](enlace-al-repositorio-con-el-material)
 
-
 <hr>
 
 <img height="34px" src="ada.jpg">
@@ -118,6 +117,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
+<img height="34px" src="ada.jpg">
+
+* Hora de comienzo: 16:05h
+
+##### 1º DAW
+
+* [Sánchez Lagos, Fernando Jafet](enlace-al-repositorio-con-el-material)
+
+<hr>
 ### :calendar: Martes 30 de mayo de 2023
 
 <img height="46px" src="opplus.png">
