@@ -1,3 +1,4 @@
+
 # Presentaciones duales de 1º DAW y 1º DAM del curso 2023 / 2024
 
 Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Alan Turing** (Málaga - PTA) del curso 2023 - 2024.
@@ -102,6 +103,20 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
+<img height="28px" src="viewnext.png">
+
+* Hora de comienzo: 15:35h
+
+##### 1º DAW
+
+* [López Bermúdez, Raquel](enlace-al-repositorio-con-el-material)
+* [Barrionuevo Rosado, Alejandro](enlace-al-repositorio-con-el-material)
+
+##### 1º DAM
+* [Rico Navarro, Javier](enlace-al-repositorio-con-el-material)
+* [Cabello Sánchez, Alba](enlace-al-repositorio-con-el-material)
+
+<hr>
 
 ### :calendar: Martes 30 de mayo de 2023
 
