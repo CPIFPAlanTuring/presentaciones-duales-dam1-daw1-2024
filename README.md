@@ -85,21 +85,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 <hr>
 
 
-<hr>
-
-<img height="26px" src="nttdata.png">
-
-* Hora de comienzo: 10:35h
-
-##### 1ºDAW
-
-* Sánchez Martín, Roberto
-* Portillo Hoyos, David
-* Pucheta Posdeley, David Natanael
-
-<hr>
-
-
 ### :calendar: Martes 30 de mayo de 2023
 
 <img height="46px" src="opplus.png">
