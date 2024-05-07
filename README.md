@@ -63,7 +63,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="34px" src="aliqindoi.png">
+<img height="36px" src="aliqindoi.png">
 
 * Hora de comienzo: 13:05h
 
@@ -74,7 +74,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 <hr>
 
 
-<img height="36px" src="pwc.png">
+<img height="38px" src="pwc.png">
 
 * Hora de comienzo: 13:20h
 
