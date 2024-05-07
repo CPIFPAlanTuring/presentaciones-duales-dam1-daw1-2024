@@ -84,6 +84,24 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
+### :calendar: Lunes 27 de mayo de 2024 - Turno de tarde
+
+<img height="36px" src="accenture.svg">
+
+* Hora de comienzo: 15:15h
+
+##### 1ºDAW
+
+* [Molina Meléndez, José](enlace-al-repositorio-con-el-material)
+
+<hr>
+
+##### 1ºDAM
+
+* [Domínguez García, Héctor](enlace-al-repositorio-con-el-material)
+
+<hr>
+
 
 ### :calendar: Martes 30 de mayo de 2023
 
