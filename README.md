@@ -117,7 +117,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="28px" src="nttdata.png">
 
-* Hora de comienzo: 16:20h
+* Hora de comienzo: 16:05h
 
 ##### 1º DAW
 
