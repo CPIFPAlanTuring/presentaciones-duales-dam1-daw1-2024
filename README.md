@@ -145,26 +145,19 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * Hora de comienzo: 17:05h
 
-##### 1ºDAM
+##### 1ºDAW
 
 * [Cabello Rueda, Francisco Javier](enlace-al-repositorio-con-el-material)
 
 <hr>
 
+<img height="46px" src="opplus.png">
+
+* Hora de comienzo: 17:20h
+
 ##### 1ºDAW
 
-* Carazo Puga, José Manuel
-
-<hr>
-
-<img height="46px" src="opplus.png">
-## PC
-
-* Hora de comienzo: 9:10h
-
-##### 1ºDAM
-
-* Martín Gallardo, Javier
+* [Robles Ruiz, Elías](enlace-al-repositorio-con-el-material)
 
 <hr>
 
