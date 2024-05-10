@@ -131,7 +131,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="46px" src="romux">
+<img height="46px" src="romux.png">
 
 * Hora de comienzo: 8:30h
 
