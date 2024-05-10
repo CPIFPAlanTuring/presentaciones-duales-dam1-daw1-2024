@@ -51,7 +51,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="34px" src="ada.jpg">
+<img height="36px" src="ada.jpg">
 
 * Hora de comienzo: 12:50h
 
@@ -63,9 +63,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="36px" src="aliqindoi.png">
+<img height="38px" src="aliqindoi.png">
 
-* Hora de comienzo: 13:05h
+* Hora de comienzo: 13:15h
 
 ##### 1ºDAM
 
