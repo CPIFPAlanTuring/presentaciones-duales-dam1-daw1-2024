@@ -128,9 +128,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 * [García Alcalá, Miguel](enlace-al-repositorio-con-el-material)
 * [Capote Molina, Enrique](enlace-al-repositorio-con-el-material)
 
-##### 1º DAM
-
-------------------
 
 <hr>
 
@@ -138,10 +135,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * Hora de comienzo: 8:30h
 
-
 ##### 1ºDAW
 
-* Sánchez Martínez, José 
+* [Sánchez Caparrós, Antonio Francisco](enlace-al-repositorio-con-el-material)
 
 <hr>
 
