@@ -115,7 +115,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="28px" src="nttdata.png">
+<img height="26px" src="nttdata.png">
 
 * Hora de comienzo: 16:05h
 
