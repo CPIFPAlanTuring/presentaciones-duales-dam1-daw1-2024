@@ -163,35 +163,21 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="90px" src="Serbatic.jpg">
 
-[Carpeta Serbatic](https://drive.google.com/drive/folders/15PBoTmR-01D-ZQpA85IlieE-pz2l_VFH?usp=sharing)
-* Hora de comienzo: 9:25h
+* Hora de comienzo: 17:35h
 
 ##### 1ºDAM
 
-* García Muñoz, Pablo
-* Valente, Marco
+* [Carmona Gálvez, Adrián](enlace-al-repositorio-con-el-material)
 
-##### 1ºDAW
-
-* Lanza Pérez, Juan Manuel
-* Bazaga Sarmiento, Marco, Jorge
-* Muñoz Jiménez, Jorge
 <hr>
 
 <img height="28px" src="viewnext.png">
 
-[Carpeta Viewnext](https://drive.google.com/drive/folders/18eVGkq1g-x5dKnbsL4xwlt681X1Zt94l?usp=sharing)
-* Hora de comienzo: 10:00h
+* Hora de comienzo: 17:50h
 
 ##### 1ºDAM 
 
-* Gutiérrez Mellado, Juan Manuel
-* Ruiz Artacho, Marina
-
-##### 1ºDAW
-
-* Cedillo Serrato, Francisco
-* Santiago Perea, Vicente
+* [Atencia Barranco, Paula](enlace-al-repositorio-con-el-material)
 
 <hr>
 
