@@ -74,9 +74,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 <hr>
 
 
-<img height="38px" src="pwc.png">
+<img height="42px" src="pwc.png">
 
-* Hora de comienzo: 13:20h
+* Hora de comienzo: 13:30h
 
 ##### 1º DAM
 
