@@ -94,8 +94,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * [Molina Meléndez, José](enlace-al-repositorio-con-el-material)
 
-<hr>
-
 ##### 1ºDAM
 
 * [Domínguez García, Héctor](enlace-al-repositorio-con-el-material)
