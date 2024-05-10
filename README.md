@@ -171,7 +171,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="28px" src="viewnext.png">
+<img height="28px" src="iuitlm.png">
 
 * Hora de comienzo: 17:50h
 
