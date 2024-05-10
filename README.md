@@ -133,7 +133,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="46px" src="romux.png">
 
-* Hora de comienzo: 8:30h
+* Hora de comienzo: 16:50h
 
 ##### 1ºDAW
 
