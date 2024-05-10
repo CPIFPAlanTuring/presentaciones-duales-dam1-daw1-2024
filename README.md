@@ -143,13 +143,13 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="32px" src="properly.png">
 
-[Carpeta Properly](https://drive.google.com/drive/folders/1bjUcLQZ_i94WBnCnvhw4IyNSvRWr1T7s?usp=sharing)
-* Hora de comienzo: 8:45h
+* Hora de comienzo: 17:05h
 
 ##### 1ºDAM
 
-* Giráldez Guerrero, Alejandro
-* Perogil Fernández, Adrián
+* [Cabello Rueda, Francisco Javier](enlace-al-repositorio-con-el-material)
+
+<hr>
 
 ##### 1ºDAW
 
