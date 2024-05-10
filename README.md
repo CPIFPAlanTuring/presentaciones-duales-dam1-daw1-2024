@@ -161,7 +161,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="30px" src="hispasec.png">
+<img height="32px" src="hispasec2.png">
 
 * Hora de comienzo: 17:35h
 
