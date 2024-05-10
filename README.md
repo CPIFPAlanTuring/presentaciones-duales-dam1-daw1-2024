@@ -131,7 +131,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="46px" src="romux.png">
 
-* Hora de comienzo: 16:50h
+* Hora de comienzo: 16:35h
 
 ##### 1ºDAW
 
@@ -141,7 +141,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="32px" src="properly.png">
 
-* Hora de comienzo: 17:05h
+* Hora de comienzo: 16:50h
 
 ##### 1ºDAW
 
@@ -151,7 +151,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="32px" src="universoweb.png">
 
-* Hora de comienzo: 17:20h
+* Hora de comienzo: 17:05h
 
 ##### 1ºDAW
 
@@ -161,7 +161,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="32px" src="hispasec2.png">
 
-* Hora de comienzo: 17:35h
+* Hora de comienzo: 17:20h
 
 ##### 1ºDAM
 
@@ -171,7 +171,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="28px" src="iuitlm.png">
 
-* Hora de comienzo: 17:50h
+* Hora de comienzo: 17:35h
 
 ##### 1ºDAM 
 
