@@ -151,7 +151,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="46px" src="opplus.png">
+<img height="32px" src="universoweb.png">
 
 * Hora de comienzo: 17:20h
 
