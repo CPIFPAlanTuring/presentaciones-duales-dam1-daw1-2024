@@ -119,12 +119,18 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="28px" src="nttdata.png">
 
-* Hora de comienzo: 16:05h
+* Hora de comienzo: 16:20h
 
 ##### 1º DAW
 
+* [Ruiz Domínguez, Pablo](enlace-al-repositorio-con-el-material)
+* [Ruiz Cosano, Juan Ignacio](enlace-al-repositorio-con-el-material)
+* [García Alcalá, Miguel](enlace-al-repositorio-con-el-material)
+* [Capote Molina, Enrique](enlace-al-repositorio-con-el-material)
 
-* [Sánchez Lagos, Fernando Jafet](enlace-al-repositorio-con-el-material)
+##### 1º DAM
+
+------------------
 
 <hr>
 
