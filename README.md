@@ -69,7 +69,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAM
 
-* [Solera Romero, David](enlace-al-repositorio-con-el-material)
+* [Solera Romero, David](https://github.com/DavidSoleraRomero/presentacion-dual-1dam)
 
 <hr>
 
