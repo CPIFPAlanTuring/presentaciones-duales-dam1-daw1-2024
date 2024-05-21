@@ -110,7 +110,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 * [Barrionuevo Rosado, Alejandro](enlace-al-repositorio-con-el-material)
 
 ##### 1º DAM
-* [Rico Navarro, Javier](enlace-al-repositorio-con-el-material)
+* [Rico Navarro, Javier](https://github.com/Jricnav1811/PresentacionViewnext)
 * [Cabello Sánchez, Alba](enlace-al-repositorio-con-el-material)
 
 <hr>
