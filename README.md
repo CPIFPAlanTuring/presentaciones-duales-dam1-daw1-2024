@@ -92,7 +92,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAW
 
-* [Molina Meléndez, José](enlace-al-repositorio-con-el-material)
+* [Molina Meléndez, José](https://github.com/Jmolmel/PresentacionDual_JoseMolina)
 
 ##### 1ºDAM
 
