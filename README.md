@@ -155,7 +155,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAW
 
-* [Robles Ruiz, Elías](enlace-al-repositorio-con-el-material)
+* [Robles Ruiz, Elías](https://github.com/erobrui2812/presentacion-dual/)
 
 <hr>
 
