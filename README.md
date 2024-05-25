@@ -135,7 +135,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAW
 
-* [Sánchez Caparrós, Antonio Francisco]([enlace-al-repositorio-con-el-material](https://github.com/anthonysanchezz/Presentacion-Dual))
+* [Sánchez Caparrós, Antonio Francisco](https://github.com/anthonysanchezz/Presentacion-Dual)
 
 <hr>
 
