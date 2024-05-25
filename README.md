@@ -25,7 +25,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * [Colomer, Bárbara Palmira](enlace-al-repositorio-con-el-material)
 * [Lázaro Zambrano, Gonzálo](enlace-al-repositorio-con-el-material)
-* [Ramos Alarcón, Sergio]([enlace-al-repositorio-con-el-material](https://github.com/Kazuma275/presentacion-Accenture/tree/main))
+* [Ramos Alarcón, Sergio](https://github.com/Kazuma275/presentacion-Accenture/tree/main)
 
 <hr>
 
