@@ -23,7 +23,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAW
 
-* [Colomer, Bárbara Palmira](enlace-al-repositorio-con-el-material)
+* [Colomer, Bárbara Palmira](https://github.com/bcolomer/dual2024)
 * [Lázaro Zambrano, Gonzálo](enlace-al-repositorio-con-el-material)
 * [Ramos Alarcón, Sergio](https://github.com/Kazuma275/presentacion-Accenture/tree/main)
 
