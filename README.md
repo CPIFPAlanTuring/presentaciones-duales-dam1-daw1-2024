@@ -43,7 +43,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * [López Guerrero, Álvaro](enlace-al-repositorio-con-el-material)
 * [Chacón Macías, Juan Francisco](enlace-al-repositorio-con-el-material)
-* [Alarcón Fortes, Manuel]([enlace-al-repositorio-con-el-material](https://github.com/ManAlarFor/dual2024))
+* [Alarcón Fortes, Manuel](https://github.com/ManAlarFor/dual2024)
 
 ##### 1º DAM
 * [Lázaro Zambrano, Ignacio](https://github.com/Chito1811/Presentaci-nDUAL)
