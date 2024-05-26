@@ -31,7 +31,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAM
 
-* [Leiva López, Eloy](enlace-al-repositorio-con-el-material)
+* [Leiva López, Eloy](https://github.com/eleilop/presentacion-dual)
 
 <hr>
 
