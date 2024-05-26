@@ -42,7 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 ##### 1º DAW
 
 * [López Guerrero, Álvaro](enlace-al-repositorio-con-el-material)
-* [Chacón Macías, Juan Francisco](enlace-al-repositorio-con-el-material)
+* [Chacón Macías, Juan Francisco](https://github.com/JuanFranCM/Dual-VN)
 * [Alarcón Fortes, Manuel](https://github.com/ManAlarFor/dual2024)
 
 ##### 1º DAM
