@@ -80,7 +80,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1º DAM
 
-* [Gallego Ríos, Boris](enlace-al-repositorio-con-el-material)
+* [Gallego Ríos, Boris](https://github.com/Boris027/presentacion-dual)
 
 <hr>
 
