@@ -104,6 +104,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * Hora de comienzo: 15:35h
 
+* [Presentación común](https://github.com/Rlopber/Presentacion_Dual_Viewnext_RLB_1DAW/blob/main/VIEWNEXT%20-%20Presentacion%20Comun%20-%20Tarde.pdf)
+
 ##### 1º DAW
 
 * [López Bermúdez, Raquel](https://github.com/Rlopber/Presentacion_Dual_Viewnext_RLB_1DAW)
