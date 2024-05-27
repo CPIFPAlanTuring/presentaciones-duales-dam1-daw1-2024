@@ -181,6 +181,17 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 * 
 <hr>
 
+<img height="36px" src="ada.jpg">
+
+* Hora de comienzo: 17:50h
+
+##### 1º DAW
+
+* [Sánchez Lagos, Fernando](https://github.com/Fernandosanchez1609/presentaci-n-)
+
+<hr>
+
+
 ## :stopwatch: Tiempo para la presentación
 
 Los alumnos de la misma empresa deberán de realizar una presentación común de la misma cuya duración será de 5 minutos como máximo. A continuación, cada alumno realizará una presentación individualizada de su trabajo de 5 minutos, dejando otros 5 minutos para un turno de preguntas común.
