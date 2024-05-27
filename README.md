@@ -123,7 +123,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 * [Ruiz Domínguez, Pablo](https://github.com/pablo-r-d/dual2024)
 * [Ruiz Cosano, Juan Ignacio](enlace-al-repositorio-con-el-material)
-* [García Alcalá, Miguel]([(https://github.com/miguelga2004/PresentacionDual)
+* [García Alcalá, Miguel](https://github.com/miguelga2004/PresentacionDual)
 * [Capote Molina, Enrique](https://github.com/Enriiquecm/Presentacion_dual)
 
 
