@@ -177,7 +177,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAM 
 
-* [Atencia Barranco, Paula](enlace-al-repositorio-con-el-material)
+* [Atencia Barranco, Paula](https://github.com/PaulaAtencia/Presentaci-n-Dual--Paula-1-DAM.git)
 
 <hr>
 
