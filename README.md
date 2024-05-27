@@ -96,7 +96,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1ºDAM
 
-* [Domínguez García, Héctor](enlace-al-repositorio-con-el-material)
+* [Domínguez García, Héctor](https://github.com/HectorDominguezG/PresentacionDualHDG_Accenture)
 
 <hr>
 
