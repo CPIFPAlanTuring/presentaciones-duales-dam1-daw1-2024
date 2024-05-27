@@ -47,7 +47,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1º DAM
 * [Lázaro Zambrano, Ignacio](https://github.com/Chito1811/Presentaci-nDUAL)
-* [Avella Pérez, Samuel](enlace-al-repositorio-con-el-material)
+* [Avella Pérez, Samuel](https://github.com/SamuelAvella/Presentaci-n-dual)
 
 <hr>
 
