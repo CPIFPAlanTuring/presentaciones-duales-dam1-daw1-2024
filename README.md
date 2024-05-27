@@ -106,7 +106,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 ##### 1º DAW
 
-* [López Bermúdez, Raquel](enlace-al-repositorio-con-el-material)
+* [López Bermúdez, Raquel]([enlace-al-repositorio-con-el-material](https://github.com/Rlopber/Presentacion_Dual_Viewnext_RLB_1DAW)
 * [Barrionuevo Rosado, Alejandro](https://github.com/Alejandro-BR/Presentacion-dual-1DAW)
 
 ##### 1º DAM
